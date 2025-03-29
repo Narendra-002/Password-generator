@@ -13,5 +13,5 @@ This is a simple and secure password generator that creates strong and random pa
 ## Installation
 Clone the repository and navigate to the project directory:
 ```sh
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/Narendra-002/password-generator.git
 cd password-generator
